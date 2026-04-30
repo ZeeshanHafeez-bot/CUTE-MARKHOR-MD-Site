@@ -78,7 +78,7 @@ router.get('/', async (req, res) => {
 ║❍ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: youtube.com/@cutemarkhor
 ║❍ 𝐎𝐰𝐧𝐞𝐫: 923319863027
 ║❍ 𝐑𝐞𝐩𝐨: https://github.com/AzlanHafeez
-║❍ 𝐖𝐚𝐆𝗿𝐨𝐮𝐩: https://chat.whatsapp.com/KRyARlvcUjoIv1CPSSyQA5?mode=wwt
+║❍ 𝐖𝐚𝐆𝗿𝐨𝐮𝐩: https://chat.whatsapp.com/IYuD9t8pysILV5X4X9ZpB6
 ║❍ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029VbAPgH78PgsENxv1Ej43
 ║ ☬ ☬ ☬ ☬
 ╚═════════════════════╝
