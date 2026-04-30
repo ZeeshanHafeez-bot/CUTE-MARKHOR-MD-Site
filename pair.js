@@ -74,12 +74,12 @@ router.get('/', async (req, res) => {
 ║ 『••• _V𝗶𝘀𝗶𝘁 𝗙𝗼𝗿_H𝗲𝗹𝗽 •••』
 ║❍ 𝐎𝐰𝐧𝐞𝐫: 923319863027
 ║❍ 𝐑𝐞𝐩𝐨: https://github.com/AzlanHafeez
-║❍ 𝐖𝐚𝐆𝗿𝐨𝐮𝐩: https://chat.whatsapp.com/KRyARlvcUjoIv1CPSSyQA5?mode=wwt
-║❍ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306
+║❍ 𝐖𝐚𝐆𝗿𝐨𝐮𝐩: https://chat.whatsapp.com/IYuD9t8pysILV5X4X9ZpB6
+║❍ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029VbAPgH78PgsENxv1Ej43
 ║
 ║ ☬ ☬ ☬ ☬
 ╚═════════════════════╝
-𒂀 Enjoy Arslan-MD
+𒂀 Enjoy CUTE-MARKHOR-MD
 
 
 ---
@@ -87,14 +87,14 @@ router.get('/', async (req, res) => {
 Don't Forget To Give Star⭐ To My Repo
 ______________________________`;
 
-                    await Pair_Code_By_Arslan_Tech.sendMessage(Pair_Code_By_Arslan_Tech.user.id, { text: Toxic_MD_TEXT }, { quoted: session });
+                    await Pair_Code_By_CUTE_MARKHOR.sendMessage(Pair_Code_By_CUTE_MARKHOR.user.id, { text: Toxic_MD_TEXT }, { quoted: session });
 
                     await delay(100);
-                    await Pair_Code_By_Arslan_Tech.ws.close();
+                    await Pair_Code_By_CUTE_MARKHOR.ws.close();
                     return await removeFile('./temp/' + id);
                 } else if (connection === 'close' && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
                     await delay(10000);
-                    Arslan_MD_PAIR_CODE();
+                    CUTE_MARKHOR_MD_PAIR_CODE();
                 }
             });
         } catch (err) {
@@ -106,7 +106,7 @@ ______________________________`;
         }
     }
     
-    return await Arslan_MD_PAIR_CODE();
+    return await CUTE_MARKHOR_MD_PAIR_CODE();
 });
 
 module.exports = router;
